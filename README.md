@@ -1,4 +1,4 @@
- Hi there 👋 I am Jidan Maharjan.
+ Hi there 👋! I am a skilled MERN stack developer, utilizing my expertise in MongoDB, Express, React, and Node.js to build dynamic, high-performing web applications. My passion for coding and solving complex problems drives me to constantly improve and stay up-to-date with the latest industry trends. Let's build something amazing together!
  
  ![https://jidan.com.np](https://komarev.com/ghpvc/?username=jidanmaharjan) 
 
