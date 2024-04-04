@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on [URL Shortner](https://github.com/jidanmaharjan/urlshortner)
 
-- 👨‍💻 All of my projects are available at [jidan.com.np](jidan.com.np)
+- 👨‍💻 All of my projects are available at [jidan.com.np](https://jidan.com.np)
 
-- 📝 I regularly write articles on [jidan.com.np/blogs](jidan.com.np/blogs)
+- 📝 I regularly write articles on [jidan.com.np/blogs](https://jidan.com.np/blogs)
 
 - 💬 Ask me about **React, Express**
 
 - 📫 How to reach me **jidanmaharjan1@gmail.com**
 
-- 📄 Know about my experiences [jidan.com.np/resume.pdf](jidan.com.np/resume.pdf)
+- 📄 Know about my experiences [jidan.com.np/resume.pdf](https://jidan.com.np/resume.pdf)
 
 - ⚡ Fun fact **I can speak five languages: English, Nepali, Newari, Indian, and a little Japanese.**
 
