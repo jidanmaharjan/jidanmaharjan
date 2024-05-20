@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidanmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="jidanmaharjan" /> </p>
 
-- 🔭 I’m currently working on [Geography Mapping](https://github.com/jidanmaharjan/geography-mapping)
+- 🔭 I’m currently working on [Music Repository]([https://github.com/jidanmaharjan/geography-mapping](https://github.com/jidanmaharjan/musicrepo_typescript))
 
 - 🌱 I’m currently learning **Next JS**
 
