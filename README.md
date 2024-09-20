@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [jidan.com.np/blogs](https://jidan.com.np/blogs)
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React, Express, Next**
 
 - 📫 How to reach me **jidanmaharjan1@gmail.com**
 
