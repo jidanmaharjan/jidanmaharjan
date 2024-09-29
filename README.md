@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [jidan.com.np](https://jidan.com.np)
 
-- 📝 I regularly write articles on [jidan.com.np/blogs](https://jidan.com.np/blogs)
+- 📝 I regularly write blogs on [jidan.com.np/blogs](https://jidan.com.np/blogs)
 
 - 💬 Ask me about **React, Express, Next**
 
