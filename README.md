@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidanmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="jidanmaharjan" /> </p>
 
-- 🔭 I’m currently working on <a href="https://blog.jidan.com.np">Supabase project</a>
+- 🔭 I’m currently working on <a href="https://blog.jidan.com.np">Blog project</a>
 
 - 🌱 I’m currently learning **Next JS**
 
