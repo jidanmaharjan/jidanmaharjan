@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidanmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="jidanmaharjan" /> </p>
 
-- 🔭 I’m currently working on <a href="https://blog.jidan.com.np">Blog project</a>
+- 🔭 I’m currently working on <a href="https://blog.jidan.com.np">Personal Blog</a>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Cypress**
 
 - 👯 I’m looking to collaborate on [URL Shortner](https://github.com/jidanmaharjan/urlshortner)
 
