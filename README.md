@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [jidan.com.np/resume.pdf](https://jidan.com.np/resume.pdf)
 
-- ⚡ Fun fact **I can speak five languages: English, Nepali, Newari, Indian, and a little Japanese.**
+- ⚡ Fun fact **I can speak five languages: English, Nepali, Newari, Hindi, and a little Japanese.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
