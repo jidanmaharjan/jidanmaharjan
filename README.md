@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://blog.jidan.com.np">Personal Blog</a>
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [URL Shortner](https://github.com/jidanmaharjan/urlshortner)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write blogs on [jidan.com.np/blogs](https://jidan.com.np/blogs)
 
-- 💬 Ask me about **React, Express, Next**
+- 💬 Ask me about **React, Express, Next, Cypress**
 
 - 📫 How to reach me **jidanmaharjan1@gmail.com**
 
