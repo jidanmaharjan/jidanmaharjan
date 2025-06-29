@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://rankbee.vercel.app">RankBee</a>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **n8n**
 
 - 👯 I’m looking to collaborate on [URL Shortner](https://github.com/jidanmaharjan/urlshortner)
 
