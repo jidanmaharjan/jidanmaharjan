@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidanmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="jidanmaharjan" /> </p>
 
-- 🔭 I’m currently working on <a href="https://rankbee.vercel.app">RankBee</a>
+- 🔭 I’m currently working on <a href="https://blog.jidan.com.np">My Blog v2</a>
 
 - 🌱 I’m currently learning **n8n automation**
 
