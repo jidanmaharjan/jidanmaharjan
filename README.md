@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://blog.jidan.com.np">My Blog v2</a>
 
-- 🌱 I’m currently learning **n8n automation**
+- 🌱 I’m currently learning **NestJs**
 
 - 👯 I’m looking to collaborate on [URL Shortner](https://github.com/jidanmaharjan/urlshortner)
 
