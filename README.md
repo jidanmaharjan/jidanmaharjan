@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidanmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="jidanmaharjan" /> </p>
 
-- 🔭 I’m currently working on <a href="https://blog.jidan.com.np">My Blog v2</a>
+- 🔭 I’m currently working on <a href="https://arenaops.dpdns.org">ArenaOps - tournament organizer</a>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👯 I’m looking to collaborate on [URL Shortner](https://github.com/jidanmaharjan/urlshortner)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write blogs on [jidan.com.np/blogs](https://jidan.com.np/blogs)
 
-- 💬 Ask me about **React, Express, Next, Cypress**
+- 💬 Ask me about **React, Express, Next, Cypress, NestJs**
 
 - 📫 How to reach me **jidanmaharjan1@gmail.com**
 
